@@ -13,3 +13,4 @@
 ## 👥 Распределение лидов <a href="#lead-distribution" id="lead-distribution"></a>
 
 * [Ссылка на распределение](lead-distribution/ssylka-na-raspredelenie.md)
+* [Ошибки при распределении](lead-distribution/oshibki-pri-raspredelenii.md)
