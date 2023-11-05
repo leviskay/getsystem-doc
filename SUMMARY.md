@@ -9,3 +9,7 @@
 * [Возобновление или смена типа подписки](change-subscription.md)
 * [Уведомление клиентов](user-notification.md)
 * [Ручное управление типом подписки](manual-change-subscription.md)
+
+## 👥 Распределение лидов <a href="#lead-distribution" id="lead-distribution"></a>
+
+* [Ссылка на распределение](lead-distribution/ssylka-na-raspredelenie.md)
